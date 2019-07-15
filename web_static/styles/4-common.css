@@ -19,3 +19,11 @@ body {
     margin: 30px auto;
 }
 
+.page_container {
+    position: relative;
+    min-height: 100vh;
+}
+
+.content_wrap {
+    padding-bottom: 60px;
+}
